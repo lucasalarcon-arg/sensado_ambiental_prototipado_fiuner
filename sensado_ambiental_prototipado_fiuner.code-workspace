@@ -1,7 +1,16 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": "./Firmware"
+		},
+		{
+			"path": "./Hardware"
+		},
+		{
+			"path": "./Modelos_3D"
+		},
+		{
+			"path": "./Software"
 		}
 	],
 	"settings": {}
