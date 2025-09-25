@@ -1,0 +1,1 @@
+reademe para firmware
